@@ -3,7 +3,7 @@ I am a Computer Science student that is interested in creating solutions to bene
 
 - 🌱 Currently learning CompTIA A+ certification skills, .
 - 🔭 Working on HABIT Discord Bot.
-- 📫 Reach me via [Email](dyeung156@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dyeung156/).
+- 📫 Reach me via email at dyeung156@gmail.com or [LinkedIn](https://www.linkedin.com/in/dyeung156/).
 
 <!--
 **Dyeung156/Dyeung156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
